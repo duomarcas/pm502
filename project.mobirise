@@ -85,7 +85,7 @@
     "uniqCompNum": 94,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "proyecto-1.html": {
