@@ -15797,10 +15797,35 @@ blockquote {
 .cid-sKB73Lrfdn H3 {
   color: #1a428a;
 }
+.cid-tSYcKGZCQg {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tSYcKGZCQg .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tSYcKGZCQg .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tSYcKGZCQg .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tSYcKGZCQg .mbr-section-title,
+.cid-tSYcKGZCQg .mbr-section-subtitle,
+.cid-tSYcKGZCQg .mbr-text {
+  text-align: center;
+}
 .cid-sKB73LRFYL {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
-  background-color: #bbbbbb;
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
 }
 .cid-sKB73LZ2Ne {
   padding-top: 2rem;
