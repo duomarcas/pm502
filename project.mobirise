@@ -1644,13 +1644,13 @@
                 "videoPreview": "@ADDONS_PATH@/successm4/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/portada-no-image-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/portada-no-image-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portada-pns-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portada-pns-800x600-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-4",
                 "caption": "PARQUE INDUSTRIAL PNS",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Industrial",
@@ -1806,7 +1806,7 @@
                 "title": "",
                 "customStyle1": "display-4",
                 "caption": "GAURA",
-                "active": true
+                "active": false
               }
             ]
           }
