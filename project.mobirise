@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PM502",
-    "currentPage": "proyectos-comerciales.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -30,13 +30,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#06182d",
         "#f1f1f1",
         "#1a428a",
         "#19202c",
         "#ff8300",
         "#808080",
-        "#ececec",
-        "#0d2248"
+        "#ececec"
       ],
       "staticStyles": "@charset \"UTF-8\";\nsection {\n  background-color: #ffffff;\n}\n\nbody {\n  font-style: normal;\n  line-height: 1.5;\n  font-weight: 400;\n  color: #232323;\n  position: relative;\n}\n\nbutton {\n  background-color: transparent;\n  border-color: transparent;\n}\n\nsection,\n.container,\n.container-fluid {\n  position: relative;\n  word-wrap: break-word;\n}\n\na.mbr-iconfont:hover {\n  text-decoration: none;\n}\n\n.article .lead p,\n.article .lead ul,\n.article .lead ol,\n.article .lead pre,\n.article .lead blockquote {\n  margin-bottom: 0;\n}\n\na {\n  font-style: normal;\n  font-weight: 400;\n  cursor: pointer;\n}\na, a:hover {\n  text-decoration: none;\n}\n\n.mbr-section-title {\n  font-style: normal;\n  line-height: 1.3;\n}\n\n.mbr-section-subtitle {\n  line-height: 1.3;\n}\n\n.mbr-text {\n  font-style: normal;\n  line-height: 1.7;\n}\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.display-1,\n.display-2,\n.display-4,\n.display-5,\n.display-7,\nspan,\np,\na {\n  line-height: 1;\n  word-break: break-word;\n  word-wrap: break-word;\n  font-weight: 400;\n}\n\nb,\nstrong {\n  font-weight: plain;\n}\n\ninput:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {\n  transition-delay: 9999s;\n  -webkit-transition-property: background-color, color;\n  transition-property: background-color, color;\n}\n\ntextarea[type=hidden] {\n  display: none;\n}\n\nsection {\n  background-position: 50% 50%;\n  background-repeat: no-repeat;\n  background-size: cover;\n}\nsection .mbr-background-video,\nsection .mbr-background-video-preview {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  top: 0;\n}\n\n.hidden {\n  visibility: hidden;\n}\n\n.mbr-z-index20 {\n  z-index: 20;\n}\n\n/*! Base colors */\n.mbr-white {\n  color: #ffffff;\n}\n\n.mbr-black {\n  color: #111111;\n}\n\n.mbr-bg-white {\n  background-color: #ffffff;\n}\n\n.mbr-bg-black {\n  background-color: #000000;\n}\n\n/*! Text-aligns */\n.align-left {\n  text-align: left;\n}\n\n.align-center {\n  text-align: center;\n}\n\n.align-right {\n  text-align: right;\n}\n\n/*! Font-weight  */\n.mbr-light {\n  font-weight: 300;\n}\n\n.mbr-regular {\n  font-weight: 400;\n}\n\n.mbr-semibold {\n  font-weight: 500;\n}\n\n.mbr-bold {\n  font-weight: 700;\n}\n\n/*! Media  */\n.media-content {\n  flex-basis: 100%;\n}\n\n.media-container-row {\n  display: flex;\n  flex-direction: row;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-content: center;\n  align-items: start;\n}\n.media-container-row .media-size-item {\n  width: 400px;\n}\n\n.media-container-column {\n  display: flex;\n  flex-direction: column;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-content: center;\n  align-items: stretch;\n}\n.media-container-column > * {\n  width: 100%;\n}\n\n@media (min-width: 992px) {\n  .media-container-row {\n    flex-wrap: nowrap;\n  }\n}\nfigure {\n  margin-bottom: 0;\n  overflow: hidden;\n}\n\nfigure[mbr-media-size] {\n  transition: width 0.1s;\n}\n\nimg,\niframe {\n  display: block;\n  width: 100%;\n}\n\n.card {\n  background-color: transparent;\n  border: none;\n}\n\n.card-box {\n  width: 100%;\n}\n\n.card-img {\n  text-align: center;\n  flex-shrink: 0;\n  -webkit-flex-shrink: 0;\n}\n\n.media {\n  max-width: 100%;\n  margin: 0 auto;\n}\n\n.mbr-figure {\n  align-self: center;\n}\n\n.media-container > div {\n  max-width: 100%;\n}\n\n.mbr-figure img,\n.card-img img {\n  width: 100%;\n}\n\n@media (max-width: 991px) {\n  .media-size-item {\n    width: auto !important;\n  }\n\n  .media {\n    width: auto;\n  }\n\n  .mbr-figure {\n    width: 100% !important;\n  }\n}\n/*! Buttons */\n.mbr-section-btn {\n  margin-left: -0.6rem;\n  margin-right: -0.6rem;\n  font-size: 0;\n}\n\n.btn {\n  font-weight: 600;\n  border-width: 1px;\n  font-style: normal;\n  margin: 0.6rem 0.6rem;\n  white-space: normal;\n  transition: all 0.2s ease-in-out;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  word-break: break-word;\n}\n\n.btn-sm {\n  font-weight: 600;\n  letter-spacing: 0px;\n  transition: all 0.3s ease-in-out;\n}\n\n.btn-md {\n  font-weight: 600;\n  letter-spacing: 0px;\n  transition: all 0.3s ease-in-out;\n}\n\n.btn-lg {\n  font-weight: 600;\n  letter-spacing: 0px;\n  transition: all 0.3s ease-in-out;\n}\n\n.btn-form {\n  margin: 0;\n}\n.btn-form:hover {\n  cursor: pointer;\n}\n\nnav .mbr-section-btn {\n  margin-left: 0rem;\n  margin-right: 0rem;\n}\n\n/*! Btn icon margin */\n.btn .mbr-iconfont,\n.btn.btn-sm .mbr-iconfont {\n  order: 1;\n  cursor: pointer;\n  margin-left: 0.5rem;\n  vertical-align: sub;\n}\n\n.btn.btn-md .mbr-iconfont,\n.btn.btn-md .mbr-iconfont {\n  margin-left: 0.8rem;\n}\n\n.mbr-regular {\n  font-weight: 400;\n}\n\n.mbr-semibold {\n  font-weight: 500;\n}\n\n.mbr-bold {\n  font-weight: 700;\n}\n\n[type=submit] {\n  -webkit-appearance: none;\n}\n\n/*! Full-screen */\n.mbr-fullscreen .mbr-overlay {\n  min-height: 100vh;\n}\n\n.mbr-fullscreen {\n  display: flex;\n  display: -moz-flex;\n  display: -ms-flex;\n  display: -o-flex;\n  align-items: center;\n  min-height: 100vh;\n  padding-top: 3rem;\n  padding-bottom: 3rem;\n}\n\n/*! Map */\n.map {\n  height: 25rem;\n  position: relative;\n}\n.map iframe {\n  width: 100%;\n  height: 100%;\n}\n\n/*! Scroll to top arrow */\n.mbr-arrow-up {\n  bottom: 25px;\n  right: 90px;\n  position: fixed;\n  text-align: right;\n  z-index: 5000;\n  color: #ffffff;\n  font-size: 22px;\n}\n\n.mbr-arrow-up a {\n  background: rgba(0, 0, 0, 0.2);\n  border-radius: 50%;\n  color: #fff;\n  display: inline-block;\n  height: 60px;\n  width: 60px;\n  border: 2px solid #fff;\n  outline-style: none !important;\n  position: relative;\n  text-decoration: none;\n  transition: all 0.3s ease-in-out;\n  cursor: pointer;\n  text-align: center;\n}\n.mbr-arrow-up a:hover {\n  background-color: rgba(0, 0, 0, 0.4);\n}\n.mbr-arrow-up a i {\n  line-height: 60px;\n}\n\n.mbr-arrow-up-icon {\n  display: block;\n  color: #fff;\n}\n\n.mbr-arrow-up-icon::before {\n  content: \"›\";\n  display: inline-block;\n  font-family: serif;\n  font-size: 22px;\n  line-height: 1;\n  font-style: normal;\n  position: relative;\n  top: 6px;\n  left: -4px;\n  transform: rotate(-90deg);\n}\n\n/*! Arrow Down */\n.mbr-arrow {\n  position: absolute;\n  bottom: 45px;\n  left: 50%;\n  width: 60px;\n  height: 60px;\n  cursor: pointer;\n  background-color: rgba(80, 80, 80, 0.5);\n  border-radius: 50%;\n  transform: translateX(-50%);\n}\n@media (max-width: 767px) {\n  .mbr-arrow {\n    display: none;\n  }\n}\n.mbr-arrow > a {\n  display: inline-block;\n  text-decoration: none;\n  outline-style: none;\n  -webkit-animation: arrowdown 1.7s ease-in-out infinite;\n          animation: arrowdown 1.7s ease-in-out infinite;\n  color: #ffffff;\n}\n.mbr-arrow > a > i {\n  position: absolute;\n  top: -2px;\n  left: 15px;\n  font-size: 2rem;\n}\n\n#scrollToTop a i::before {\n  content: \"\";\n  position: absolute;\n  display: block;\n  border-bottom: 2.5px solid #fff;\n  border-left: 2.5px solid #fff;\n  width: 27.8%;\n  height: 27.8%;\n  left: 50%;\n  top: 51%;\n  transform: translateY(-30%) translateX(-50%) rotate(135deg);\n}\n\n@keyframes arrowdown {\n  0% {\n    transform: translateY(0px);\n  }\n  50% {\n    transform: translateY(-5px);\n  }\n  100% {\n    transform: translateY(0px);\n  }\n}\n@-webkit-keyframes arrowdown {\n  0% {\n    transform: translateY(0px);\n  }\n  50% {\n    transform: translateY(-5px);\n  }\n  100% {\n    transform: translateY(0px);\n  }\n}\n@media (max-width: 500px) {\n  .mbr-arrow-up {\n    left: 0;\n    right: 0;\n    text-align: center;\n  }\n}\n/*Gradients animation*/\n@keyframes gradient-animation {\n  from {\n    background-position: 0% 100%;\n    -webkit-animation-timing-function: ease-in-out;\n            animation-timing-function: ease-in-out;\n  }\n  to {\n    background-position: 100% 0%;\n    -webkit-animation-timing-function: ease-in-out;\n            animation-timing-function: ease-in-out;\n  }\n}\n@-webkit-keyframes gradient-animation {\n  from {\n    background-position: 0% 100%;\n    -webkit-animation-timing-function: ease-in-out;\n            animation-timing-function: ease-in-out;\n  }\n  to {\n    background-position: 100% 0%;\n    -webkit-animation-timing-function: ease-in-out;\n            animation-timing-function: ease-in-out;\n  }\n}\n.bg-gradient {\n  background-size: 200% 200%;\n  animation: gradient-animation 5s infinite alternate;\n  -webkit-animation: gradient-animation 5s infinite alternate;\n}\n\n.menu .navbar-brand {\n  display: -webkit-flex;\n}\n.menu .navbar-brand span {\n  display: flex;\n  display: -webkit-flex;\n}\n.menu .navbar-brand .navbar-caption-wrap {\n  display: -webkit-flex;\n}\n.menu .navbar-brand .navbar-logo img {\n  display: -webkit-flex;\n  width: auto;\n}\n@media (min-width: 768px) and (max-width: 991px) {\n  .menu .navbar-toggleable-sm .navbar-nav {\n    display: -ms-flexbox;\n  }\n}\n@media (max-width: 991px) {\n  .menu .navbar-collapse {\n    max-height: 93.5vh;\n  }\n  .menu .navbar-collapse.show {\n    overflow: auto;\n  }\n}\n@media (min-width: 992px) {\n  .menu .navbar-nav.nav-dropdown {\n    display: -webkit-flex;\n  }\n  .menu .navbar-toggleable-sm .navbar-collapse {\n    display: -webkit-flex !important;\n  }\n  .menu .collapsed .navbar-collapse {\n    max-height: 93.5vh;\n  }\n  .menu .collapsed .navbar-collapse.show {\n    overflow: auto;\n  }\n}\n@media (max-width: 767px) {\n  .menu .navbar-collapse {\n    max-height: 80vh;\n  }\n}\n\n.nav-link .mbr-iconfont {\n  margin-right: 0.5rem;\n}\n\n.navbar {\n  display: -webkit-flex;\n  -webkit-flex-wrap: wrap;\n  -webkit-align-items: center;\n  -webkit-justify-content: space-between;\n}\n\n.navbar-collapse {\n  -webkit-flex-basis: 100%;\n  -webkit-flex-grow: 1;\n  -webkit-align-items: center;\n}\n\n.nav-dropdown .link {\n  padding: 0.667em 1.667em !important;\n  margin: 0 !important;\n}\n\n.nav {\n  display: -webkit-flex;\n  -webkit-flex-wrap: wrap;\n}\n\n.row {\n  display: -webkit-flex;\n  -webkit-flex-wrap: wrap;\n}\n\n.justify-content-center {\n  -webkit-justify-content: center;\n}\n\n.form-inline {\n  display: -webkit-flex;\n}\n\n.card-wrapper {\n  -webkit-flex: 1;\n}\n\n.carousel-control {\n  z-index: 10;\n  display: -webkit-flex;\n}\n\n.carousel-controls {\n  display: -webkit-flex;\n}\n\n.media {\n  display: -webkit-flex;\n}\n\n.form-group:focus {\n  outline: none;\n}\n\n.jq-selectbox__select {\n  padding: 7px 0;\n  position: relative;\n}\n\n.jq-selectbox__dropdown {\n  overflow: hidden;\n  border-radius: 10px;\n  position: absolute;\n  top: 100%;\n  left: 0 !important;\n  width: 100% !important;\n}\n\n.jq-selectbox__trigger-arrow {\n  right: 0;\n  transform: translateY(-50%);\n}\n\n.jq-selectbox li {\n  padding: 1.07em 0.5em;\n}\n\ninput[type=range] {\n  padding-left: 0 !important;\n  padding-right: 0 !important;\n}\n\n.modal-dialog,\n.modal-content {\n  height: 100%;\n}\n\n.modal-dialog .carousel-inner {\n  height: calc(100vh - 1.75rem);\n}\n@media (max-width: 575px) {\n  .modal-dialog .carousel-inner {\n    height: calc(100vh - 1rem);\n  }\n}\n\n.carousel-item {\n  text-align: center;\n}\n\n.carousel-item img {\n  margin: auto;\n}\n\n.navbar-toggler {\n  align-self: flex-start;\n  padding: 0.25rem 0.75rem;\n  font-size: 1.25rem;\n  line-height: 1;\n  background: transparent;\n  border: 1px solid transparent;\n  border-radius: 0.25rem;\n}\n\n.navbar-toggler:focus,\n.navbar-toggler:hover {\n  text-decoration: none;\n  box-shadow: none;\n}\n\n.navbar-toggler-icon {\n  display: inline-block;\n  width: 1.5em;\n  height: 1.5em;\n  vertical-align: middle;\n  content: \"\";\n  background: no-repeat center center;\n  background-size: 100% 100%;\n}\n\n.navbar-toggler-left {\n  position: absolute;\n  left: 1rem;\n}\n\n.navbar-toggler-right {\n  position: absolute;\n  right: 1rem;\n}\n\n.card-img {\n  width: auto;\n}\n\n.menu .navbar.collapsed:not(.beta-menu) {\n  flex-direction: column;\n}\n\n.carousel-item.active,\n.carousel-item-next,\n.carousel-item-prev {\n  display: flex;\n}\n\n.note-air-layout .dropup .dropdown-menu,\n.note-air-layout .navbar-fixed-bottom .dropdown .dropdown-menu {\n  bottom: initial !important;\n}\n\nhtml,\nbody {\n  height: auto;\n  min-height: 100vh;\n}\n\n.dropup .dropdown-toggle::after {\n  display: none;\n}\n\n.form-asterisk {\n  font-family: initial;\n  position: absolute;\n  top: -2px;\n  font-weight: normal;\n}\n\n.form-control-label {\n  position: relative;\n  cursor: pointer;\n  margin-bottom: 0.357em;\n  padding: 0;\n}\n\n.alert {\n  color: #ffffff;\n  border-radius: 0;\n  border: 0;\n  font-size: 1.1rem;\n  line-height: 1.5;\n  margin-bottom: 1.875rem;\n  padding: 1.25rem;\n  position: relative;\n  text-align: center;\n}\n.alert.alert-form::after {\n  background-color: inherit;\n  bottom: -7px;\n  content: \"\";\n  display: block;\n  height: 14px;\n  left: 50%;\n  margin-left: -7px;\n  position: absolute;\n  transform: rotate(45deg);\n  width: 14px;\n}\n\n.form-control {\n  background-color: #ffffff;\n  background-clip: border-box;\n  color: #232323;\n  line-height: 1rem !important;\n  height: auto;\n  padding: 0.6rem 1.2rem;\n  transition: border-color 0.25s ease 0s;\n  border: 1px solid transparent !important;\n  border-radius: 4px;\n  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.07) 0px 1px 3px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;\n}\n.form-active .form-control:invalid {\n  border-color: red;\n}\n\nform .row {\n  margin-left: -0.6rem;\n  margin-right: -0.6rem;\n}\nform .row [class*=col] {\n  padding-left: 0.6rem;\n  padding-right: 0.6rem;\n}\n\nform .mbr-section-btn {\n  margin: 0;\n  padding-left: 0.6rem;\n  padding-right: 0.6rem;\n}\n\nform .btn {\n  display: flex;\n  padding: 0.6rem 1.2rem;\n  margin: 0;\n}\n\nform .form-check-input {\n  margin-top: 0.5;\n}\n\ntextarea.form-control {\n  line-height: 1.5rem !important;\n}\n\n.form-group {\n  margin-bottom: 1.2rem;\n}\n\n.form-control,\nform .btn {\n  min-height: 48px;\n}\n\n.gdpr-block label span.textGDPR input[name=gdpr] {\n  top: 7px;\n}\n\n.form-control:focus {\n  box-shadow: none;\n}\n\n:focus {\n  outline: none;\n}\n\n.mbr-overlay {\n  background-color: #000;\n  bottom: 0;\n  left: 0;\n  opacity: 0.5;\n  position: absolute;\n  right: 0;\n  top: 0;\n  z-index: 0;\n  pointer-events: none;\n}\n\nblockquote {\n  font-style: italic;\n  padding: 3rem;\n  font-size: 1.09rem;\n  position: relative;\n  border-left: 3px solid;\n}\n\nul,\nol,\npre,\nblockquote {\n  margin-bottom: 2.3125rem;\n}\n\n.mt-4 {\n  margin-top: 2rem !important;\n}\n\n.mb-4 {\n  margin-bottom: 2rem !important;\n}\n\n@media (min-width: 992px) {\n  .container {\n    padding-left: 16px;\n    padding-right: 16px;\n  }\n\n  .row {\n    margin-left: -16px;\n    margin-right: -16px;\n  }\n  .row > [class*=col] {\n    padding-left: 16px;\n    padding-right: 16px;\n  }\n}\n@media (min-width: 768px) {\n  .container-fluid {\n    padding-left: 32px;\n    padding-right: 32px;\n  }\n}\n@media (min-width: 768px) and (max-width: 991px) {\n  .mbr-container {\n    padding-left: 32px;\n    padding-right: 32px;\n  }\n}\n@media (max-width: 767px) {\n  .mbr-container {\n    padding-left: 16px;\n    padding-right: 16px;\n  }\n}\n.card-wrapper,\n.item-wrapper {\n  overflow: hidden;\n}\n\n.app-video-wrapper > img {\n  opacity: 1;\n}\n\n.item {\n  position: relative;\n}\n\n.dropdown-menu .dropdown-menu {\n  left: 100%;\n}\n\n.dropdown-item + .dropdown-menu {\n  display: none;\n}\n\n.dropdown-item:hover + .dropdown-menu,\n.dropdown-menu:hover {\n  display: block;\n}\n\n@media (min-aspect-ratio: 16/9) {\n  .mbr-video-foreground {\n    height: 300% !important;\n    top: -100% !important;\n  }\n}\n@media (max-aspect-ratio: 16/9) {\n  .mbr-video-foreground {\n    width: 300% !important;\n    left: -100% !important;\n  }\n}"
     },
@@ -83,7 +83,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 296,
+    "uniqCompNum": 317,
     "versionPublish": "5.9.4",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
@@ -2103,7 +2103,7 @@
           },
           "_name": "slider1",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"slider1\" group=\"Sliders & Galleries\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <input type=\"id\" name=\"sliderId\">\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"!fullScreen\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"!fullScreen\">\n        <header>Carousel</header>\n        <input type=\"checkbox\" title=\"Fade Effect\" name=\"fade\" checked>\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\" checked>\n        <input type=\"range\" title=\"Interval\" name=\"interval\" min=\"3\" max=\"10\" value=\"5\" step=\"1\" condition=\"autoplay\">\n        <header>Slide</header>\n        <input type=\"checkbox\" title=\"Caption\" name=\"showCaption\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\" selected>\n    </mbr-parameters>\n    <div id=\"{{sliderId}}\" class=\"carousel slide\" mbr-class=\"{'carousel-fade': fade}\" data-ride=\"{{autoplay ? 'carousel' : false}}\" data-bs-ride=\"{{autoplay ? 'carousel' : false}}\" data-interval=\"{{interval*1000}}\" data-bs-interval=\"{{interval*1000}}\">\n        <ol class=\"carousel-indicators\">\n            <li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\" class=\"active\"></li>\n            <li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></li><li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></li>\n            \n        </ol>\n        <div class=\"carousel-inner\">\n            <div class=\"carousel-item slider-image item active\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/home-iglesia-1900x1069.jpg\" alt data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"carousel-item slider-image item\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/vidali-pm502-1-921x691.jpg\" data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div><div class=\"carousel-item slider-image item\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/home-plaza-tinajon-921x614.jpg\" data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n        <a class=\"carousel-control carousel-control-prev\" href=\"#{{sliderId}}\" role=\"button\" data-slide=\"prev\" data-bs-slide=\"prev\">\n            <span class=\"mobi-mbri mobi-mbri-arrow-prev\" aria-hidden=\"true\"></span>\n            <span class=\"sr-only visually-hidden\">Previous</span>\n        </a>\n        <a class=\"carousel-control carousel-control-next\" href=\"#{{sliderId}}\" role=\"button\" data-slide=\"next\" data-bs-slide=\"next\">\n            <span class=\"mobi-mbri mobi-mbri-arrow-next\" aria-hidden=\"true\"></span>\n            <span class=\"sr-only visually-hidden\">Next</span>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"slider1\" group=\"Sliders &amp; Galleries\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <input type=\"id\" name=\"sliderId\">\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"!fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"!fullScreen\">\n        <header>Carousel</header>\n        <input type=\"checkbox\" title=\"Fade Effect\" name=\"fade\" checked=\"\">\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\" checked=\"\">\n        <input type=\"range\" title=\"Interval\" name=\"interval\" min=\"3\" max=\"10\" value=\"5\" step=\"1\" condition=\"autoplay\">\n        <header>Slide</header>\n        <input type=\"checkbox\" title=\"Caption\" name=\"showCaption\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\" selected=\"\">\n    </mbr-parameters>\n    <div id=\"{{sliderId}}\" class=\"carousel slide\" mbr-class=\"{'carousel-fade': fade}\" data-ride=\"{{autoplay ? 'carousel' : false}}\" data-bs-ride=\"{{autoplay ? 'carousel' : false}}\" data-interval=\"{{interval*1000}}\" data-bs-interval=\"{{interval*1000}}\">\n        <ol class=\"carousel-indicators\">\n            <li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\" class=\"active\"></li>\n            <li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></li><li data-target=\"#{{sliderId}}\" data-bs-target=\"#{{sliderId}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></li>\n            \n        </ol>\n        <div class=\"carousel-inner\">\n            <div class=\"carousel-item slider-image item active\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/home-iglesia-logo-2-1900x1069.jpg\" alt=\"\" data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"carousel-item slider-image item\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/vidali-pm502-1-921x691.jpg\" data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div><div class=\"carousel-item slider-image item\">\n                <div class=\"item-wrapper\">\n                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/home-plaza-tinajon-921x614.jpg\" data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                    <div class=\"mbr-overlay\" mbr-if=\"overlay\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n                    </div>\n                    <div class=\"carousel-caption\" mbr-if=\"showCaption || showText\">\n                        <h5 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-if=\"showCaption\" mbr-theme-style=\"display-5\">\n                            <b>Full-Width Slider</b>\n                        </h5>\n                        <p class=\"mbr-section-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Click on the image to edit slides.</p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n        <a class=\"carousel-control carousel-control-prev\" href=\"#{{sliderId}}\" role=\"button\" data-slide=\"prev\" data-bs-slide=\"prev\">\n            <span class=\"mobi-mbri mobi-mbri-arrow-prev\" aria-hidden=\"true\"></span>\n            <span class=\"sr-only visually-hidden\">Previous</span>\n        </a>\n        <a class=\"carousel-control carousel-control-next\" href=\"#{{sliderId}}\" role=\"button\" data-slide=\"next\" data-bs-slide=\"next\">\n            <span class=\"mobi-mbri mobi-mbri-arrow-next\" aria-hidden=\"true\"></span>\n            <span class=\"sr-only visually-hidden\">Next</span>\n        </a>\n    </div>\n</section>",
           "_cid": "sKz6tuI6w2",
           "_anchor": "slider1-2m",
           "_protectedParams": [],
@@ -2339,36 +2339,240 @@
           "_params": {}
         },
         {
-          "alias": false,
+          "_name": "clients01",
+          "_sourceTheme": "carm4",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"clients clients01 carm4_clients01\" group=\"Clients\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax, 'mbr-fullscreen': fullScreen}\" plugins=\"BootstrapCarouselSwipe,mbr-clients-slider\">\n    <mbr-parameters>\n        \n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"15\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"30\" step=\"1\" value=\"4\">\n        <header>Show / Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"range\" inline title=\"Items\" name=\"slidesCount\" min=\"1\" max=\"20\" step=\"1\" value=\"10\">\n        <select title=\"Visible Slides\" name=\"visibleSlides\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\" selected>5</option>\n        </select>\n        <header condition=\"showTitle\">Mask</header>\n        <input type=\"checkbox\" title=\"Title Mask\" name=\"showTitleMask\" checked condition=\"showTitle\">\n        <input type=\"color\" title=\"Mask Text Color\" name=\"maskTextColor\" value=\"#ffffff\" selected condition=\"showTitleMask && showTitle\">\n        <input type=\"checkbox\" title=\"Gradient Mask\" name=\"gradientMask\" condition=\"showTitleMask && showTitle\" checked>\n        <input type=\"color\" title=\"Mask Color\" name=\"maskColor\" value=\"#ff5e3a\" condition=\"showTitleMask && showTitle\">\n        <input type=\"color\" title=\"Mask Color 2\" name=\"maskColor2\" value=\"#ff653c\" condition=\"gradientMask && showTitleMask && showTitle\">\n        <input type=\"color\" title=\"Mask Color 3\" name=\"maskColor3\" value=\"#ff4e3c\" condition=\"gradientMask && showTitleMask && showTitle\">\n        <hr>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@ADDONS_PATH@/carm4/components/_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/carm4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n        <input type=\"checkbox\" title=\"Gradient Background\" name=\"gradientBg\" condition=\"bg.type=='color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg &&bg.type=='color'\">\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay&&bg.type !== 'color'\">\n        \n    </mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container-fluid': fullWidth, 'container': !fullWidth }\">\n        <div class=\"media-container-row mb-4\">\n            <div class=\"col-12 align-center\">\n                <h3 class=\"mbr-fonts-style mbr-section-title align-center mbr-bold mbr-black\" data-app-selector=\".mbr-section-title, .col\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">How\n                    <span>We Work</span></h3>\n                <h4 class=\"mbr-fonts-style mbr-section-subtitle align-center pb-1 mbr-regular\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Nuestros Clientes</h4>\n                <p class=\"mbr-fonts-style mbr-text align-center mbr-black mbr-regular mt-4\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .col\">Lorem ipsum dolor\n                    sit amet, consectetur\n                    adipisicing elit, sed do\n                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru\n                    exercitation ullamco laboris nisi ut aliquip ex lorem ipsum.</p>\n            </div>\n        </div>\n        <div class=\"carousel slide\" data-ride=\"carousel\" data-bs-ride=\"carousel\" role=\"listbox\">\n            <div class=\"carousel-inner\" mbr-list mbr-list-grow=\"slidesCount\" data-visible=\"{{visibleSlides}}\">\n                <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-capital-buro-developmets-240x158.jpg\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-nexo-240x158.png\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-iglesia-sta-maria-240x158.jpg\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-rosul-240x158.png\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-trazo-240x158.jpg\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            <div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-church-of-jesus-christ-240x158.jpg\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div><div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-coco-240x158.jpg\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div><div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-diatzul-240x158.png\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div><div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-ci-240x158.png\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div><div class=\"carousel-item \">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"wrap-img \">\n                                <img src=\"@PROJECT_PATH@/assets/images/logo-cag-1-240x158.png\" class=\"img-responsive clients-img\" alt>\n                            </div>\n                        </div>\n                    </div>\n                </div></div>\n            <div class=\"carousel-controls\">\n                <a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\" data-bs-slide=\"prev\">\n                    <span aria-hidden=\"true\" class=\"mbri-left mbr-iconfont\"></span>\n                    <span class=\"sr-only visually-hidden\">Previous</span>\n                </a>\n                <a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\" data-bs-slide=\"next\">\n                    <span aria-hidden=\"true\" class=\"mbri-right mbr-iconfont\"></span>\n                    <span class=\"sr-only visually-hidden\">Next</span>\n                </a>\n            </div>\n        </div>\n    </div>\n</section>",
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor",
-            "img": {
-              "width": "120px",
-              "margin": "auto"
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
             },
-            ".card": {
-              "transition": "all 0.3s",
-              "height": "fit-content",
-              "padding": "1rem 0",
-              "opacity": "0.7",
-              "margin-bottom": "1rem"
-            },
-            "@media (min-width: 992px)": {
-              ".card": {
-                "max-width": "12.5%"
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value",
+              "& when (@gradientBg)": {
+                "background": "linear-gradient(@bg-value, @color2)"
               }
             },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
             ".mbr-section-title": {
-              "color": "#1a428a"
+              "color": "#06182d",
+              "& when (@showTitleMask)": {
+                "span": {
+                  "line-height": "1",
+                  "color": "@maskTextColor",
+                  "padding": "0 6px 1px 5px",
+                  "transform": "skew(-14deg)",
+                  "background": "@maskColor",
+                  "& when (@gradientMask)": {
+                    "background": "linear-gradient(@maskColor 0%, @maskColor2 69%, @maskColor3 100%)"
+                  },
+                  "display": "inline-block",
+                  "font-weight": "500",
+                  "letter-spacing": "0",
+                  "position": "relative"
+                }
+              }
+            },
+            ".mbr-section-subtitle": {
+              "color": "#1a428a",
+              "&.display-7": {
+                "letter-spacing": "0"
+              }
+            },
+            ".mbr-section-text": {
+              "color": "#999999"
+            },
+            ".carousel-control": {
+              "background": "#000",
+              "opacity": "0.2"
+            },
+            ".carousel": {
+              "width": "85%",
+              "margin": "auto"
+            },
+            ".carousel-item": {
+              "justify-content": "center",
+              ".media-container-row": {
+                "flex-grow": "1"
+              },
+              ".wrap-img": {
+                "text-align": "center",
+                "img": {
+                  "transition": "all 0.3s",
+                  "max-height": "150px",
+                  "width": "auto",
+                  "max-width": "100%"
+                }
+              }
+            },
+            ".carousel-controls": {
+              "display": "flex",
+              "justify-content": "center",
+              ".carousel-control": {
+                "background": "#000",
+                "border-radius": "50%",
+                "position": "static",
+                "width": "40px",
+                "height": "40px",
+                "margin-top": "2rem",
+                "border-width": "1px",
+                "&.carousel-control-prev": {
+                  "left": "auto",
+                  "margin-right": "20px",
+                  "margin-left": "0"
+                },
+                "&.carousel-control-next": {
+                  "right": "auto",
+                  "margin-right": "0"
+                },
+                ".mbr-iconfont": {
+                  "font-size": "1rem"
+                }
+              }
+            },
+            ".cloneditem-1, .cloneditem-2, .cloneditem-3, .cloneditem-4, .cloneditem-5": {
+              "display": "none"
+            },
+            ".col-lg-15": {
+              "flex": "0 0 100%",
+              "max-width": "100%",
+              "position": "relative",
+              "min-height": "1px",
+              "padding-right": "10px",
+              "padding-left": "10px",
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".col-lg-15": {
+                "flex": "0 0 20%",
+                "max-width": "20%",
+                "width": "20%"
+              },
+              ".carousel-inner": {
+                "opacity": "0.8",
+                "&.slides2": {
+                  "> .carousel-item.active.carousel-item-right, > .carousel-item.carousel-item-next": {
+                    "left": "0",
+                    "transform": "translate3d(50%, 0, 0)"
+                  },
+                  "> .carousel-item.active.carousel-item-left, > .carousel-item.carousel-item-prev": {
+                    "left": "0",
+                    "transform": "translate3d(-50%, 0, 0)"
+                  },
+                  "> .carousel-item.carousel-item-left, > .carousel-item.carousel-item-prev.carousel-item-right, > .carousel-item.active": {
+                    "left": "0",
+                    "transform": "translate3d(0, 0, 0)"
+                  },
+                  ".cloneditem-1, .cloneditem-2, .cloneditem-3": {
+                    "display": "block"
+                  }
+                },
+                "&.slides3": {
+                  "> .carousel-item.active.carousel-item-right, > .carousel-item.carousel-item-next": {
+                    "left": "0",
+                    "transform": "translate3d(33.333333%, 0, 0)"
+                  },
+                  "> .carousel-item.active.carousel-item-left, > .carousel-item.carousel-item-prev": {
+                    "left": "0",
+                    "transform": "translate3d(-33.333333%, 0, 0)"
+                  },
+                  "> .carousel-item.carousel-item-left, > .carousel-item.carousel-item-prev.carousel-item-right, > .carousel-item.active": {
+                    "left": "0",
+                    "transform": "translate3d(0, 0, 0)"
+                  },
+                  ".cloneditem-1, .cloneditem-2, .cloneditem-3": {
+                    "display": "block"
+                  }
+                },
+                "&.slides4": {
+                  "> .carousel-item.active.carousel-item-right, > .carousel-item.carousel-item-next": {
+                    "left": "0",
+                    "transform": "translate3d(25%, 0, 0)"
+                  },
+                  "> .carousel-item.active.carousel-item-left, > .carousel-item.carousel-item-prev": {
+                    "left": "0",
+                    "transform": "translate3d(-25%, 0, 0)"
+                  },
+                  "> .carousel-item.carousel-item-left, > .carousel-item.carousel-item-prev.carousel-item-right, > .carousel-item.active": {
+                    "left": "0",
+                    "transform": "translate3d(0, 0, 0)"
+                  },
+                  ".cloneditem-1, .cloneditem-2, .cloneditem-3": {
+                    "display": "block"
+                  }
+                },
+                "&.slides5": {
+                  "> .carousel-item.active.carousel-item-right, > .carousel-item.carousel-item-next": {
+                    "left": "0",
+                    "transform": "translate3d(20%, 0, 0)"
+                  },
+                  "> .carousel-item.active.carousel-item-left, > .carousel-item.carousel-item-prev": {
+                    "left": "0",
+                    "transform": "translate3d(-20%, 0, 0)"
+                  },
+                  "> .carousel-item.carousel-item-left, > .carousel-item.carousel-item-prev.carousel-item-right, > .carousel-item.active": {
+                    "left": "0",
+                    "transform": "translate3d(0, 0, 0)"
+                  },
+                  ".cloneditem-1, .cloneditem-2, .cloneditem-3, .cloneditem-4": {
+                    "display": "block"
+                  }
+                },
+                "&.slides6": {
+                  "> .carousel-item.active.carousel-item-right, > .carousel-item.carousel-item-next": {
+                    "left": "0",
+                    "transform": "translate3d(16.666667%, 0, 0)"
+                  },
+                  "> .carousel-item.active.carousel-item-left, > .carousel-item.carousel-item-prev": {
+                    "left": "0",
+                    "transform": "translate3d(-16.666667%, 0, 0)"
+                  },
+                  "> .carousel-item.carousel-item-left, > .carousel-item.carousel-item-prev.carousel-item-right, > .carousel-item.active": {
+                    "left": "0",
+                    "transform": "translate3d(0, 0, 0)"
+                  },
+                  ".cloneditem-1, .cloneditem-2, .cloneditem-3, .cloneditem-4, .cloneditem-5": {
+                    "display": "block"
+                  }
+                }
+              }
+            },
+            ".carousel-control-prev": {
+              "position": "absolute !important",
+              "left": "-50px !important"
+            },
+            ".carousel-control-next": {
+              "position": "absolute !important",
+              "right": "-50px !important"
+            },
+            "@media (max-width: 576px)": {
+              ".carousel-control-prev": {
+                "left": "-10px !important"
+              },
+              ".carousel-control-next": {
+                "right": "-10px !important"
+              }
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
             }
           },
-          "_name": "clients1",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"clients1\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"8\" value=\"8\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"images-container\" mbr-class=\"{'container-fluid':fullWidth, container:fullWidth==false}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Nuestros Clientes</h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">For a better look, use pictures of the same size in this block.\n                elit</h4>\n            <p class=\"mbr-text mbr-fonts-style align-center mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                Click on an image in this block to replace it. Set the number of logos in Block Parameters. </p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"col-md-3 card\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-capital-buro-developmets-240x158.jpg\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 1\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-nexo-240x158.png\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 2\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-iglesia-sta-maria-240x158.jpg\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 3\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-trazo-240x158.jpg\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 4\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-rosul-240x158.png\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 5\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-church-of-jesus-christ-240x158.jpg\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 6\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-coco-240x158.jpg\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 7\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-insa-2-240x158.png\" alt>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sKzb7C974D",
-          "_anchor": "clients1-2q",
+          "_cid": "tWge7kColk",
+          "_anchor": "clients01-8m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
